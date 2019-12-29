@@ -1,7 +1,9 @@
-package tasks;
+package tasks.linearprogramms;
 
 import java.util.Scanner;
-
+/*
+* 2. Вычислить значение выражения по формуле (все переменные принимают действительные значения).
+* */
 public class Task_2 {
     public static void main(String[] args) {
         int a, b, c;
