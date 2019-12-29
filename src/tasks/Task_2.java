@@ -1,11 +1,11 @@
-package linear.programms;
+package tasks;
 
 import java.util.Scanner;
 
-public class Task_1 {
+public class Task_2 {
     public static void main(String[] args) {
         int a, b, c;
-        float z;
+        double z;
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter a..");
         a = scanner.nextInt();
@@ -13,10 +13,9 @@ public class Task_1 {
         b = scanner.nextInt();
         System.out.println("enter c..");
         c = scanner.nextInt();
-        z = (float)(((a - 3) * b / 2) + c);
 
-        System.out.println("First task answer = " + z);
+        z = (((b + Math.sqrt(Math.pow(b, 2) + 4 * a * c)) / 2 * a) - Math.pow(a, 3) * c + Math.pow(b, -2));
 
-
+        System.out.println("Second task answer = " + z);
     }
 }
