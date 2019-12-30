@@ -17,6 +17,6 @@ public class Task_2 {
         System.out.println("enter d..");
         int d = scanner.nextInt();
         int max = Math.max(Math.min(a,b), Math.min(c,d));
-        System.out.println("max{min(a, b), min(c, d)}, max = " + max);
+        System.out.println("answer to: max{min("+ a +", "+ b +"), min("+ c +", "+ d +")}, max = " + max);
     }
 }
