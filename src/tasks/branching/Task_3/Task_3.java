@@ -1,6 +1,9 @@
 package tasks.branching.Task_3;
 
 import java.util.Scanner;
+/*
+* 3. Даны три точки А(х1,у1), В(х2,у2) и С(х3,у3). Определить, будут ли они расположены на одной прямой.
+* */
 
 public class Task_3 {
     public static void main(String[] args) {
