@@ -1,4 +1,4 @@
-package tasks.cycles;
+package BasicsOfSoftwareCodeDevelopment_1.cycles;
 
 import java.util.Scanner;
 /*

@@ -1,4 +1,4 @@
-package tasks.cycles;
+package BasicsOfSoftwareCodeDevelopment_1.cycles;
 /*
 * 6. Вывести на экран соответствия между символами и их численными
 * обозначениями в памяти компьютера

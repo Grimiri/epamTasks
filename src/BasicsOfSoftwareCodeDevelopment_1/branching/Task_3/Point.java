@@ -1,4 +1,4 @@
-package tasks.branching.Task_3;
+package BasicsOfSoftwareCodeDevelopment_1.branching.Task_3;
 
 public class Point {
     private int x, y;

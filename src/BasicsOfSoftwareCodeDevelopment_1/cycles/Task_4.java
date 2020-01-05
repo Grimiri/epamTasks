@@ -1,4 +1,4 @@
-package tasks.cycles;
+package BasicsOfSoftwareCodeDevelopment_1.cycles;
 /*
 * 4. Составить программу нахождения произведения квадратов первых двухсот чисел.
 * */

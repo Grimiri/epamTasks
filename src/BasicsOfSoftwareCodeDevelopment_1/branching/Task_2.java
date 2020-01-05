@@ -1,4 +1,4 @@
-package tasks.branching;
+package BasicsOfSoftwareCodeDevelopment_1.branching;
 
 import java.util.Scanner;
 

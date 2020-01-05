@@ -1,4 +1,4 @@
-package tasks.linearprogramms;
+package BasicsOfSoftwareCodeDevelopment_1.linearprogramms;
 
 import java.util.Scanner;
 /*

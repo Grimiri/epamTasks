@@ -1,4 +1,4 @@
-package tasks.cycles;
+package BasicsOfSoftwareCodeDevelopment_1.cycles;
 /*
 * 3. Найти сумму квадратов первых ста чисел.
 * */
