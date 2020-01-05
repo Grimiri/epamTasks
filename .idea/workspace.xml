@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bae5e432-fa26-41d4-a094-66c7cd58c760" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Grimiri &lt;47869932+grimiri@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e37e659c-3a0a-4b06-88df-e6520d7c23e8" />
+  </component>
+  <component name="ProjectId" id="1VzLdKNkH3UYWcuWQXY1BH2aq75" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\panda\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bae5e432-fa26-41d4-a094-66c7cd58c760" name="Default Changelist" comment="" />
+      <created>1578251062329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578251062329</updated>
+      <workItem from="1578251063600" duration="2611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1578262028973">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578262028973" />
+    <state x="481" y="134" key="MultipleFileMergeDialog" timestamp="1578261890416">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="481" y="134" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1578261890416" />
+    <state x="168" y="23" width="981" height="707" key="SettingsEditor" timestamp="1578250393283">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="168" y="23" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578250393283" />
+    <state x="534" y="122" key="VCS.ChangeListViewerDialog" timestamp="1578261513622">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="534" y="122" key="VCS.ChangeListViewerDialog/0.0.1536.834@0.0.1536.834" timestamp="1578261513622" />
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578262055008">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1578262055008" />
+    <state x="399" y="114" width="738" height="606" key="find.popup" timestamp="1578249515103">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="399" y="114" width="738" height="606" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1578249515103" />
+    <state x="444" y="266" key="git4idea.ui.GitUnstashDialog" timestamp="1578261576600">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="444" y="266" key="git4idea.ui.GitUnstashDialog/0.0.1536.834@0.0.1536.834" timestamp="1578261576600" />
+  </component>
+</project>
