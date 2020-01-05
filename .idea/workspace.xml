@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d16f09ae-350a-40bc-a41f-99253f34408a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicsOfSoftwareCodeDevelopment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/epamTasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_3/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_3/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_3/Task_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +47,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -187,7 +168,7 @@
       <workItem from="1578080363409" duration="9856000" />
       <workItem from="1578096348871" duration="340000" />
       <workItem from="1578171551661" duration="17435000" />
-      <workItem from="1578248109096" duration="601000" />
+      <workItem from="1578248109096" duration="1043000" />
     </task>
     <task id="LOCAL-00001" summary="add project">
       <created>1577654186752</created>
@@ -287,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578239862601</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="finish tasks">
+      <created>1578248762281</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1578248762281</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,10 +296,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1577964426151" />
-    <state x="297" y="14" key="CommitChangelistDialog2" timestamp="1578239862086">
+    <state x="297" y="14" key="CommitChangelistDialog2" timestamp="1578248761531">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="297" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578239862086" />
+    <state x="297" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578248761531" />
     <state x="758" y="254" key="FileChooserDialogImpl" timestamp="1577653611016">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -348,10 +336,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578247969839" />
-    <state x="277" y="60" key="SettingsEditor" timestamp="1577653634426">
+    <state x="277" y="0" key="SettingsEditor" timestamp="1578249144344">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577653634426" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578249144344" />
     <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578248519160">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
