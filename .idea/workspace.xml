@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d16f09ae-350a-40bc-a41f-99253f34408a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicsOfSoftwareCodeDevelopment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/epamTasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_3/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_3/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_3/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/branching/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/branching/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/cycles/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/cycles/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/linearprogramms/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsOfSoftwareCodeDevelopment_1/linearprogramms/Task_6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Grimiri &lt;47869932+grimiri@users.noreply.github.com&gt;" />
+        <option value="g" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\epam\git\1_BasicsOfSoftwareCodeDevelopment\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VROlzW7fLvNJXRbP1oJXheYs2m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tasks.branching" />
+      <recent name="linear.programms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task_8">
+    <configuration name="Task_4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.cycles.Task_4" />
+      <module name="epamTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.cycles.Task_5" />
+      <module name="epamTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.cycles.Task_6" />
+      <module name="epamTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.cycles.Task_7" />
+      <module name="epamTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.cycles.Task_8" />
+      <module name="epamTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task_8" />
+        <item itemvalue="Application.Task_7" />
+        <item itemvalue="Application.Task_6" />
+        <item itemvalue="Application.Task_5 (1)" />
+        <item itemvalue="Application.Task_4 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d16f09ae-350a-40bc-a41f-99253f34408a" name="Default Changelist" comment="" />
+      <created>1577212595458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577212595458</updated>
+      <workItem from="1577212598556" duration="12706000" />
+      <workItem from="1577283171629" duration="50000" />
+      <workItem from="1577650858691" duration="1304000" />
+      <workItem from="1577652784302" duration="1018000" />
+      <workItem from="1577654015381" duration="1421000" />
+      <workItem from="1577655639033" duration="2869000" />
+      <workItem from="1577669525189" duration="1216000" />
+      <workItem from="1577741520601" duration="3671000" />
+      <workItem from="1577960111566" duration="7081000" />
+      <workItem from="1578080363409" duration="9856000" />
+      <workItem from="1578096348871" duration="340000" />
+      <workItem from="1578171551661" duration="17435000" />
+      <workItem from="1578248109096" duration="601000" />
+    </task>
+    <task id="LOCAL-00001" summary="add project">
+      <created>1577654186752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577654186753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit folders">
+      <created>1577655280551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577655280551</updated>
+    </task>
+    <task id="LOCAL-00003" summary="edit folders">
+      <created>1577655409934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577655409934</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit folders">
+      <created>1577655515819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577655515819</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit folders">
+      <created>1577656118554</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577656118554</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit folders">
+      <created>1577656846406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577656846406</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edit folders">
+      <created>1577658206613</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577658206613</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edit folders">
+      <created>1577670539365</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577670539365</updated>
+    </task>
+    <task id="LOCAL-00009" summary="edit folders">
+      <created>1577670738960</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577670738960</updated>
+    </task>
+    <task id="LOCAL-00010" summary="edit folders">
+      <created>1577962024129</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1577962024129</updated>
+    </task>
+    <task id="LOCAL-00011" summary="finish tasks">
+      <created>1578052613868</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578052613868</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finish tasks">
+      <created>1578056269027</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578056269027</updated>
+    </task>
+    <task id="LOCAL-00013" summary="finish tasks">
+      <created>1578173328781</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578173328781</updated>
+    </task>
+    <task id="LOCAL-00014" summary="finish tasks">
+      <created>1578239862601</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1578239862601</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add project" />
+    <MESSAGE value="edit folders" />
+    <MESSAGE value="finish tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish tasks" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577655655959">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1577655655959" />
+    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1577964426151">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1577964426151" />
+    <state x="297" y="14" key="CommitChangelistDialog2" timestamp="1578239862086">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="297" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578239862086" />
+    <state x="758" y="254" key="FileChooserDialogImpl" timestamp="1577653611016">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="758" y="254" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577653611016" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1578247969839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578247969839" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1578247969839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578247969839" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1578247969839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578247969839" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1578247969839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578247969839" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1578247969839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578247969839" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1578247969839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578247969839" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1578247969839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578247969839" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1578247969839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578247969839" />
+    <state x="277" y="60" key="SettingsEditor" timestamp="1577653634426">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577653634426" />
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578248519160">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1578248519160" />
+    <state x="209" y="38" key="new project wizard" timestamp="1577283219729">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1577283219729" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1577743429350">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1577743429350" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1578225750579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1578225750579" />
+  </component>
+</project>
