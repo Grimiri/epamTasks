@@ -9,21 +9,42 @@ public class Task_8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter first num..");
-        String firstNum = scanner.next();
+        int firstNum = scanner.nextInt();
         System.out.println("enter second num..");
-        double secondNum = scanner.nextDouble();
+        int secondNum = scanner.nextInt();
 
-        String finalNum = firstNum;// + secondNum;
-        char[] charArray = finalNum.toCharArray();
-        int[] intArray = new int[charArray.length];
-
-        for (int i = 0; i < charArray.length; i++){
-            if(!String.valueOf(charArray[i]).equals(",") && !String.valueOf(charArray[i]).equals("-")) {
-                intArray[i] = Integer.parseInt(String.valueOf(charArray[i]));
-
+        int[] numArray = new int[]{0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+        int[] firstNumArray = getIntArrayFormNum(firstNum);
+        int[] secondNumArray = getIntArrayFormNum(secondNum);
+        System.out.print("answer: ");
+        for (int value : numArray) {
+            if (haveNum(value, firstNumArray) && haveNum(value, secondNumArray)) {
+                System.out.print(value + " ");
             }
-            System.out.print(intArray[i] + "_");
         }
-        System.out.println("\n" + intArray.length + " " + charArray.length);
+    }
+
+    public static int[] getIntArrayFormNum(int num){
+        if (num < 0) num = Math.abs(num);
+        String sNum = String.valueOf(num);
+        char[] charArray = sNum.toCharArray();
+        int[] numArray = new int[sNum.length()];
+        for (int i = 0; i < sNum.length(); i++){
+            numArray[i] = Integer.parseInt(String.valueOf(charArray[i]));
+        }
+        return numArray;
+    }
+
+    public static boolean haveNum(int num, int[] array){
+        boolean flag = false;
+        for (int value : array) {
+            if (value == num) {
+                flag = true;
+                break;
+            }
+        }
+        return flag;
     }
 }
+
+
