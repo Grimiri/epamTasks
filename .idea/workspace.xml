@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578267412713</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push">
+      <created>1578267637827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578267637827</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,10 +124,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1578267412093">
+    <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1578267637188">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578267412093" />
+    <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578267637188" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1578267646922">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578267646922" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1578267646921">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578267646921" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1578267646920">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578267646920" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1578267646921">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578267646921" />
     <state x="481" y="134" key="MultipleFileMergeDialog" timestamp="1578261890416">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
