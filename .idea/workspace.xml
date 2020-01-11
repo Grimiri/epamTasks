@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae5e432-fa26-41d4-a094-66c7cd58c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/generationMatrixNxM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +66,13 @@
       <recent name="D:\Git\epamTasks\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_10">
-    <configuration name="Task_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.arrays.Task_10" />
+  <component name="RunManager" selected="Application.Task_16">
+    <configuration name="Task_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.matrix.Task_12" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.arrays.*" />
+          <option name="PATTERN" value="Algorithmization_2.matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.arrays.Task_5" />
+    <configuration name="Task_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.matrix.Task_13" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.arrays.*" />
+          <option name="PATTERN" value="Algorithmization_2.matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.arrays.Task_6" />
+    <configuration name="Task_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.matrix.Task_14" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.arrays.*" />
+          <option name="PATTERN" value="Algorithmization_2.matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.arrays.Task_8" />
+    <configuration name="Task_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.matrix.Task_15" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.arrays.*" />
+          <option name="PATTERN" value="Algorithmization_2.matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.arrays.Task_9" />
+    <configuration name="Task_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.matrix.Task_16" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.arrays.*" />
+          <option name="PATTERN" value="Algorithmization_2.matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_10" />
-        <item itemvalue="Application.Task_9" />
-        <item itemvalue="Application.Task_8" />
-        <item itemvalue="Application.Task_6" />
-        <item itemvalue="Application.Task_5" />
+        <item itemvalue="Application.Task_16" />
+        <item itemvalue="Application.Task_15" />
+        <item itemvalue="Application.Task_14" />
+        <item itemvalue="Application.Task_13" />
+        <item itemvalue="Application.Task_12" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +165,10 @@
       <option name="presentableId" value="Default" />
       <updated>1578251062329</updated>
       <workItem from="1578251063600" duration="2611000" />
-      <workItem from="1578308021909" duration="24079000" />
+      <workItem from="1578308021909" duration="28829000" />
+      <workItem from="1578505195134" duration="8385000" />
+      <workItem from="1578534987770" duration="4829000" />
+      <workItem from="1578659481529" duration="16870000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1578267280019</created>
@@ -224,42 +236,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1578424101719">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1578424101719" />
     <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1578269914868">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578269914868" />
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1578422521487">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1578700727408">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578422521487" />
-    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1578422521486">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578700727408" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1578700727407">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578422521486" />
-    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1578422521486">
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578700727407" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1578700727407">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578422521486" />
-    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1578422521487">
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578700727407" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1578700727408">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578422521487" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1578422119297">
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578700727408" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1578700727408">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578422119297" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1578422119296">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578700727408" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1578700727408">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578422119296" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1578422119296">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578700727408" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1578700727408">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578422119296" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1578422119296">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578700727408" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1578700727408">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578422119296" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578700727408" />
     <state x="481" y="134" key="MultipleFileMergeDialog" timestamp="1578261890416">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -284,9 +300,16 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="444" y="266" key="git4idea.ui.GitUnstashDialog/0.0.1536.834@0.0.1536.834" timestamp="1578261576600" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1578404223882">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1578671455954">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1578404223882" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1578671455954" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="array[i]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
