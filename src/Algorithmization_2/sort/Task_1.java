@@ -1,11 +1,12 @@
 package Algorithmization_2.sort;
 
 import java.util.Scanner;
+
 /*
-* 1. Заданы два одномерных массива с различным количеством элементов и натуральное число k. Объединить их в
-* один массив, включив второй массив между k-м и (k+1) - м элементами первого, при этом не используя
-* дополнительный массив
-* */
+ * 1. Заданы два одномерных массива с различным количеством элементов и натуральное число k. Объединить их в
+ * один массив, включив второй массив между k-м и (k+1) - м элементами первого, при этом не используя
+ * дополнительный массив
+ * */
 public class Task_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -20,15 +21,15 @@ public class Task_1 {
         int[] secondArray = new int[m];
         System.out.println("first array: ");
         for (int i = 0; i < n + m; i++) {
-            if(i == k){
+            if (i == k) {
                 i += m;
             }
-            firstArray[i] = (int)(Math.random() * 10);
+            firstArray[i] = (int) (Math.random() * 10);
             System.out.print(firstArray[i] + " ");
         }
         System.out.println("\nsecond array: ");
         for (int i = 0; i < m; i++) {
-            secondArray[i] = (int)(Math.random() * 10);
+            secondArray[i] = (int) (Math.random() * 10);
             System.out.print(secondArray[i] + " ");
         }
         for (int i = 0, j = k; i < m; i++, j++) {

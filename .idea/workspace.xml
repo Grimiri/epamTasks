@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae5e432-fa26-41d4-a094-66c7cd58c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +54,7 @@
       <recent name="D:\Git\epamTasks\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_6">
+  <component name="RunManager" selected="Application.Task_5">
     <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithmization_2.sort.Task_2" />
       <module name="epamTasks" />
@@ -126,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_6" />
         <item itemvalue="Application.Task_5" />
+        <item itemvalue="Application.Task_6" />
         <item itemvalue="Application.Task_4" />
         <item itemvalue="Application.Task_3" />
         <item itemvalue="Application.Task_2" />
@@ -161,7 +157,7 @@
       <workItem from="1578505195134" duration="8385000" />
       <workItem from="1578534987770" duration="4829000" />
       <workItem from="1578659481529" duration="16870000" />
-      <workItem from="1578731145732" duration="16400000" />
+      <workItem from="1578731145732" duration="26520000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1578267280019</created>
@@ -237,38 +233,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578269914868" />
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1578842918017">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1578878495470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578842918017" />
-    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1578842918017">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1578878495470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578842918017" />
-    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1578842918017">
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1578878495470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578842918017" />
-    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1578842918017">
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1578878495470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578842918017" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1578832591409">
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1578878495470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578832591409" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1578832591409">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1578878495470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578832591409" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1578832591409">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1578878495470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578832591409" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1578832591409">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1578878495470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578832591409" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
     <state x="481" y="134" key="MultipleFileMergeDialog" timestamp="1578261890416">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

@@ -34,20 +34,19 @@ public class Task_2 {
         }
 
 
-
-
     }
-    public static int[] genArray(int n, int m){
+
+    public static int[] genArray(int n, int m) {
         int[] array = new int[n + m];
-        for(int i = 0; i < n; i++){
-            array[i] = (int)(Math.random() * 10);
+        for (int i = 0; i < n; i++) {
+            array[i] = (int) (Math.random() * 10);
         }
         return array;
     }
 
-    public static void sort(int[] array, int n){
+    public static void sort(int[] array, int n) {
         boolean flag = false;
-        while(!flag) {
+        while (!flag) {
             flag = true;
             for (int i = 0; i < n - 1; i++) {
                 if (array[i] > array[i + 1]) {

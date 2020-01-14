@@ -3,12 +3,12 @@ package Algorithmization_2.sort;
 import java.util.Scanner;
 
 /*
-* 3. Сортировка выбором. Дана последовательность чисел
-* a1 <= a2 <=...<= an.Требуется переставить элементы так,
-* чтобы они были расположены по убыванию. Для этого в массиве, начиная с первого, выбирается наибольший
-* элемент и ставится на первое место, а первый - на место наибольшего. Затем, начиная со второго, эта процедура
-* повторяется. Написать алгоритм сортировки выбором.
-* */
+ * 3. Сортировка выбором. Дана последовательность чисел
+ * a1 <= a2 <=...<= an.Требуется переставить элементы так,
+ * чтобы они были расположены по убыванию. Для этого в массиве, начиная с первого, выбирается наибольший
+ * элемент и ставится на первое место, а первый - на место наибольшего. Затем, начиная со второго, эта процедура
+ * повторяется. Написать алгоритм сортировки выбором.
+ * */
 public class Task_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -33,14 +33,14 @@ public class Task_3 {
         }
     }
 
-    public static void genSortArray(int[] array){
+    public static void genSortArray(int[] array) {
         //generate
         for (int i = 0; i < array.length; i++) {
-            array[i] = (int)(Math.random() * 10);
+            array[i] = (int) (Math.random() * 10);
         }
         //sort
         boolean flag = false;
-        while(!flag) {
+        while (!flag) {
             flag = true;
             for (int i = 0; i < array.length - 1; i++) {
                 if (array[i] > array[i + 1]) {

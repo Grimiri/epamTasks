@@ -4,12 +4,12 @@ import java.security.spec.RSAOtherPrimeInfo;
 import java.util.Scanner;
 
 /*
-* 4. Сортировка обменами. Дана последовательность чисел a1 <= a2 <=...=< an.
-* Требуется переставить числа в порядке возрастания. Для этого сравниваются два соседних числа
-* a_i и a_i+1. Если a_i > a_i+1, то делается перестановка.
-* Так продолжается до тех пор, пока все элементы не станут расположены в порядке возрастания.
-* Составить алгоритм сортировки, подсчитывая при этом количества перестановок.
-* */
+ * 4. Сортировка обменами. Дана последовательность чисел a1 <= a2 <=...=< an.
+ * Требуется переставить числа в порядке возрастания. Для этого сравниваются два соседних числа
+ * a_i и a_i+1. Если a_i > a_i+1, то делается перестановка.
+ * Так продолжается до тех пор, пока все элементы не станут расположены в порядке возрастания.
+ * Составить алгоритм сортировки, подсчитывая при этом количества перестановок.
+ * */
 public class Task_4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -20,10 +20,10 @@ public class Task_4 {
 
         int counter = 0;
         boolean flag = false;
-        while (!flag){
+        while (!flag) {
             flag = true;
             for (int i = 0; i < array.length - 1; i++) {
-                if(array[i] < array[i + 1]){
+                if (array[i] < array[i + 1]) {
                     int temp = array[i];
                     array[i] = array[i + 1];
                     array[i + 1] = temp;
@@ -34,7 +34,7 @@ public class Task_4 {
         }
 
         System.out.println("\nanswer array:");
-        for (int val: array) {
+        for (int val : array) {
             System.out.print(val + " ");
         }
         System.out.println("\ncounter = " + counter);
