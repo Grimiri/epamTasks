@@ -1,25 +1,32 @@
 package Algorithmization_2.arrays;
 
-import java.util.Scanner;
-
 /*
-* 7. Даны действительные числа
-* a_1, a_2,..,a_n. Найти max(a_1 + a_2n, a_2 + a_2n−1, ..., a_n + a_n+1).
-*
-* Задание не выполнено из-за неясности поставленной задачи.
-* */
+ * 7. Даны действительные числа
+ * a_1, a_2,..,a_n. Найти max(a_1 + a_2n, a_2 + a_2n−1, ..., a_n + a_n+1).
+ *
+ * */
 
 public class Task_7 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("enter n..");
-        int n = scanner.nextInt();
-        double[] array = new double[n];
+        int n = 5;
+        int[] array = new int[n * 2];
+
         System.out.println("array: ");
-        for (int i = 0; i < array.length; i++){
-            array[i] = Math.random() * 10 - 5;
-            System.out.print(array[i] + " | ");
+        for (int i = 0; i < array.length; i++) {
+            array[i] = (int) (Math.random() * 10);
+            System.out.print(array[i] + " ");
         }
 
+        int start = 0;
+        int end = 2 * n - 1;
+        int max = array[start] + array[end];
+        for (start = 0; start < n; start++) {
+            if (max < array[start] + array[end]) {
+                max = array[start] + array[end];
+            }
+            end--;
+        }
+
+        System.out.println("\nanswer: " + max);
     }
 }
