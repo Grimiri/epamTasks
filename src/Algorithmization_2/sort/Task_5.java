@@ -17,79 +17,59 @@ import java.util.Scanner;
  * производить с помощью двоичного поиска.
  * Двоичный поиск оформить в виде отдельной функции.
  *
- * [задание сформулировано не ясно, алгоритм сортировки вставками расписан не корректно - Vlad]
  * */
 public class Task_5 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("enter n..");
-        int n = scanner.nextInt();
-        /*System.out.println("enter k..");
-        int k = scanner.nextInt();*/
+        int n = 15;
         int[] array = new int[n];
-        genSortArray(array, 0);
-        /*int save = 0;
-        for (int i = 1; i < n; i++) {
-            save = array[i];
-            int j = i - 1;
-            while (j >= 0 && array[j] > save){
-                array[j + 1] = array[j];
-                j -= 1;
-            }
-            array[j + 1] = save;
-        }*/
-
-        int save = 0;
-        for (int i = 1; i < n; i++) {
-            save = array[i];
-
-            save = binarFind(array, array[i], 0, array.length);
-        }
-        System.out.println("\nanswer array: " + save);
-        for (int val : array) {
-            System.out.print(val + " ");
-        }
-    }
-
-    public static int binarFind(int[] array, int val, int start, int end) {
-        int pos = 0;
-        while (start <= end) {
-            int cent = (start + end) / 2;
-            if (val == array[cent]) {
-                pos = cent;
-                break;
-            } else if (val < array[cent]) {
-                end = cent - 1;
-            } else {
-                start = cent + 1;
-            }
-        }
-        return pos;
-    }
-
-    public static void genSortArray(int[] array, int n) {
-        //generate
-        for (int i = 0; i < array.length; i++) {
+        System.out.println("array: ");
+        for (int i = 0; i < n; i++) {
             array[i] = (int) (Math.random() * 10);
+            System.out.print(array[i] + " ");
         }
-        //sort
-        boolean flag = false;
-        while (!flag) {
-            flag = true;
-            for (int i = 0; i < n; i++) {
-                if (array[i] > array[i + 1]) {
-                    int temp = array[i + 1];
-                    array[i + 1] = array[i];
-                    array[i] = temp;
-                    flag = false;
-                }
+        //отсортирован по убыванию сортировкой вставками
+        for (int i = 1; i < n; i++) {
+            for (int j = i; j > 0 && array[j - 1] < array[j]; j--) {
+                int temp = array[j];
+                array[j] = array[j - 1];
+                array[j - 1] = temp;
             }
         }
-        //output
-        System.out.println("doesn't full sorted array:");
-        for (int value : array) {
-            System.out.print(value + " ");
-
+        System.out.println("\nmax to min sorted array: ");
+        for (int i = 0; i < n; i++) {
+            System.out.print(array[i] + " ");
         }
+
+        for (int i = 1; i < n; i++) {
+            for (int j = i; j > 0 && array[j - 1] >= array[j]; j--) {
+                int save = array[binSearch(array, array[j-1])];
+                array[binSearch(array, array[j-1])] = array[j-1];
+                array[j-1] = save;
+            }
+        }
+        System.out.println("\nanswer:\nmin to max sorted array: ");
+        for (int i = 0; i < n; i++) {
+            System.out.print(array[i] + " ");
+        }
+        System.out.println("\nbin = " + binSearch(array, array[0]));
+    }
+
+    public static int binSearch(int[] array, int val) {
+        int start = 0;
+        int end = array.length;
+        int center = 0;
+        for (int i = 0; i < array.length/2; i++) {
+            center  = start + (end - start) / 2;
+            if (val < array[center]) {
+                end = center;
+            }
+            if (val > array[center]) {
+                start = center + 1;
+            }
+            if (val == array[center] || start == end) {
+                return center;
+            }
+        }
+        return center;
     }
 }

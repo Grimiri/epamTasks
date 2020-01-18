@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae5e432-fa26-41d4-a094-66c7cd58c760" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_8/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_8/Task_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subscribe/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subscribe/Fire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subscribe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subscribe/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subscribe/Shuting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/arrays/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/arrays/Task_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/arrays/Task_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/matrix/Task_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/matrix/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/sort/Task_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,6 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -54,13 +72,13 @@
       <recent name="D:\Git\epamTasks\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_7">
-    <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.sort.Task_4" />
+  <component name="RunManager" selected="Application.Task_8">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="subscribe.Main" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.sort.*" />
+          <option name="PATTERN" value="subscribe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,7 +91,7 @@
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.sort.*" />
+          <option name="PATTERN" value="Algorithmization_2.sort.Task_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,7 +104,7 @@
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.sort.*" />
+          <option name="PATTERN" value="Algorithmization_2.sort.Task_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +113,11 @@
       </method>
     </configuration>
     <configuration name="Task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.arrays.Task_7" />
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.sort.Task_7" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.arrays.*" />
+          <option name="PATTERN" value="Algorithmization_2.sort.Task_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.arrays.Task_9" />
+    <configuration name="Task_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.sort.Task_8.Task_8" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithmization_2.arrays.*" />
+          <option name="PATTERN" value="Algorithmization_2.sort.Task_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_7" />
-        <item itemvalue="Application.Task_9" />
-        <item itemvalue="Application.Task_5" />
+        <item itemvalue="Application.Task_8" />
+        <item itemvalue="Application.Task_7 (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task_6" />
-        <item itemvalue="Application.Task_4" />
+        <item itemvalue="Application.Task_5" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +177,10 @@
       <workItem from="1578659481529" duration="16870000" />
       <workItem from="1578731145732" duration="26520000" />
       <workItem from="1579038252525" duration="150000" />
-      <workItem from="1579091930065" duration="3855000" />
+      <workItem from="1579091930065" duration="16277000" />
+      <workItem from="1579117240527" duration="7442000" />
+      <workItem from="1579336985258" duration="4835000" />
+      <workItem from="1579357909643" duration="7613000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1578267280019</created>
@@ -227,46 +248,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1578424101719">
+    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1579360360091">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1578424101719" />
+    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1579360360091" />
     <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1578269914868">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578269914868" />
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1579095818023">
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1579365711242">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579095818023" />
-    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1579095818023">
+    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579365711242" />
+    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1579365711242">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579095818023" />
-    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1579095818023">
+    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579365711242" />
+    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1579365711241">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579095818023" />
-    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1579095818023">
+    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579365711241" />
+    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1579365711242">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579095818023" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1578878495470">
+    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579365711242" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1579365706626">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1578878495470">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579365706626" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1579365706626">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1578878495470">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579365706626" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1579365706626">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1578878495470">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579365706626" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1579365706626">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578878495470" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579365706626" />
     <state x="481" y="134" key="MultipleFileMergeDialog" timestamp="1578261890416">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -291,12 +312,25 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="444" y="266" key="git4idea.ui.GitUnstashDialog/0.0.1536.834@0.0.1536.834" timestamp="1578261576600" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1579097652495">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1579097652495" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1578671455954">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1578671455954" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithmization_2/sort/Task_8/Task_8.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="array[i]" language="JAVA" />

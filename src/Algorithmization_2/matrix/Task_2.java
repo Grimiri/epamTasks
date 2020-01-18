@@ -1,6 +1,5 @@
 package Algorithmization_2.matrix;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 /*

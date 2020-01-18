@@ -12,9 +12,6 @@ public class Task_12 {
         int[][] matrix = new generationMatrixNxM().generateIntMatrix(n, n);
         sortArrayRowByMaxToMin(matrix, n);
         sortArrayRowByMinToMax(matrix, n);
-
-        /*System.out.println("answer:");
-        new generationMatrixNxM().toStringArray(matrix);*/
     }
 
     public static void sortArrayRowByMaxToMin(int[][] matrix, int n){

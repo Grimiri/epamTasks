@@ -1,7 +1,10 @@
 package Algorithmization_2.matrix;
 
 import java.util.Scanner;
-
+/*
+* Сформировать квадратную матрицу порядка N по правилу:
+* a[i,j] = sin((i^2 - j^2) / n)
+* */
 public class Task_7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
