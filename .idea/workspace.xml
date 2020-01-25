@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae5e432-fa26-41d4-a094-66c7cd58c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_4/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_4/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_8/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_8/Fraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_8/Task_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/sort/Task_8/Task_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +61,9 @@
       <recent name="D:\Git\epamTasks\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_12">
-    <configuration name="Task_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_10" />
+  <component name="RunManager" selected="Application.Task_17">
+    <configuration name="Task_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_13" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_11" />
+    <configuration name="Task_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_14" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_12" />
+    <configuration name="Task_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_15" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_8" />
+    <configuration name="Task_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_16" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_9" />
+    <configuration name="Task_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithmization_2.decomposition.Task_17" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_12" />
-        <item itemvalue="Application.Task_10" />
-        <item itemvalue="Application.Task_11" />
-        <item itemvalue="Application.Task_9" />
-        <item itemvalue="Application.Task_8" />
+        <item itemvalue="Application.Task_17" />
+        <item itemvalue="Application.Task_16" />
+        <item itemvalue="Application.Task_15" />
+        <item itemvalue="Application.Task_14" />
+        <item itemvalue="Application.Task_13" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +172,10 @@
       <workItem from="1579357909643" duration="25470000" />
       <workItem from="1579447464210" duration="3518000" />
       <workItem from="1579467986157" duration="330000" />
-      <workItem from="1579468731137" duration="6518000" />
+      <workItem from="1579468731137" duration="6850000" />
+      <workItem from="1579715834750" duration="1871000" />
+      <workItem from="1579886687757" duration="1678000" />
+      <workItem from="1579907053502" duration="7483000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1578267280019</created>
@@ -255,42 +247,46 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1579374921557" />
+    <state x="524" y="121" key="#xdebugger.evaluate" timestamp="1579910072539">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="524" y="121" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1579910072539" />
     <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1578269914868">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578269914868" />
-    <state width="746" height="143" key="GridCell.Tab.0.bottom" timestamp="1579476927055">
+    <state width="746" height="204" key="GridCell.Tab.0.bottom" timestamp="1579962910566">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="143" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579476927055" />
-    <state width="746" height="143" key="GridCell.Tab.0.center" timestamp="1579476927055">
+    <state width="746" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579962910566" />
+    <state width="746" height="204" key="GridCell.Tab.0.center" timestamp="1579962910565">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="143" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579476927055" />
-    <state width="746" height="143" key="GridCell.Tab.0.left" timestamp="1579476927055">
+    <state width="746" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579962910565" />
+    <state width="746" height="204" key="GridCell.Tab.0.left" timestamp="1579962910565">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="143" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579476927055" />
-    <state width="746" height="143" key="GridCell.Tab.0.right" timestamp="1579476927055">
+    <state width="746" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579962910565" />
+    <state width="746" height="204" key="GridCell.Tab.0.right" timestamp="1579962910565">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="143" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579476927055" />
-    <state width="746" height="265" key="GridCell.Tab.1.bottom" timestamp="1579466910656">
+    <state width="746" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579962910565" />
+    <state width="746" height="204" key="GridCell.Tab.1.bottom" timestamp="1579962910567">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579466910656" />
-    <state width="746" height="265" key="GridCell.Tab.1.center" timestamp="1579466910656">
+    <state width="746" height="204" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579962910567" />
+    <state width="746" height="204" key="GridCell.Tab.1.center" timestamp="1579962910566">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579466910656" />
-    <state width="746" height="265" key="GridCell.Tab.1.left" timestamp="1579466910656">
+    <state width="746" height="204" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579962910566" />
+    <state width="746" height="204" key="GridCell.Tab.1.left" timestamp="1579962910566">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579466910656" />
-    <state width="746" height="265" key="GridCell.Tab.1.right" timestamp="1579466910656">
+    <state width="746" height="204" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579962910566" />
+    <state width="746" height="204" key="GridCell.Tab.1.right" timestamp="1579962910567">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579466910656" />
+    <state width="746" height="204" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579962910567" />
     <state x="481" y="134" key="MultipleFileMergeDialog" timestamp="1578261890416">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -328,9 +324,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_7.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="13" />
+          <url>file://$PROJECT_DIR$/src/Algorithmization_2/decomposition/Task_17.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
