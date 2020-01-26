@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae5e432-fa26-41d4-a094-66c7cd58c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/workingwithastring/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/workingwithastring/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/workingwithastring/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/workingwithastring/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/workingwithastring/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/decomposition/Task_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/Algorithmization_2/decomposition/Task_17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAndBasicsOfTextProcessing_3/stringlikeobject/Task_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +63,9 @@
       <recent name="D:\Git\epamTasks\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_3 (1)">
-    <configuration name="Task_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.Task_1" />
+  <component name="RunManager" selected="Application.Task_8">
+    <configuration name="Task_4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.Task_4" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.Task_2" />
+    <configuration name="Task_5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.Task_5" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.Task_3" />
+    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.Task_6" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.workingwithastring.Task_4" />
+    <configuration name="Task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.Task_7" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing_3.workingwithastring.*" />
+          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.workingwithastring.Task_5" />
+    <configuration name="Task_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.Task_8" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing_3.workingwithastring.*" />
+          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing_3.stringlikeobject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_3 (1)" />
-        <item itemvalue="Application.Task_2 (1)" />
-        <item itemvalue="Application.Task_1 (1)" />
-        <item itemvalue="Application.Task_5" />
-        <item itemvalue="Application.Task_4" />
+        <item itemvalue="Application.Task_8" />
+        <item itemvalue="Application.Task_7" />
+        <item itemvalue="Application.Task_6" />
+        <item itemvalue="Application.Task_5 (1)" />
+        <item itemvalue="Application.Task_4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +177,7 @@
       <workItem from="1579468731137" duration="6850000" />
       <workItem from="1579715834750" duration="1871000" />
       <workItem from="1579886687757" duration="1678000" />
-      <workItem from="1579907053502" duration="21659000" />
+      <workItem from="1579907053502" duration="25046000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1578267280019</created>
@@ -259,38 +257,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578269914868" />
-    <state width="746" height="143" key="GridCell.Tab.0.bottom" timestamp="1579994480267">
+    <state width="746" height="143" key="GridCell.Tab.0.bottom" timestamp="1579997715252">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="143" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579994480267" />
-    <state width="746" height="143" key="GridCell.Tab.0.center" timestamp="1579994480267">
+    <state width="746" height="143" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579997715252" />
+    <state width="746" height="143" key="GridCell.Tab.0.center" timestamp="1579997715251">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="143" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579994480267" />
-    <state width="746" height="143" key="GridCell.Tab.0.left" timestamp="1579994480266">
+    <state width="746" height="143" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579997715251" />
+    <state width="746" height="143" key="GridCell.Tab.0.left" timestamp="1579997715251">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="143" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579994480266" />
-    <state width="746" height="143" key="GridCell.Tab.0.right" timestamp="1579994480267">
+    <state width="746" height="143" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579997715251" />
+    <state width="746" height="143" key="GridCell.Tab.0.right" timestamp="1579997715251">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="746" height="143" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579994480267" />
-    <state width="872" height="204" key="GridCell.Tab.1.bottom" timestamp="1579992115361">
+    <state width="746" height="143" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579997715251" />
+    <state width="870" height="204" key="GridCell.Tab.1.bottom" timestamp="1579997286678">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="872" height="204" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579992115361" />
-    <state width="872" height="204" key="GridCell.Tab.1.center" timestamp="1579992115360">
+    <state width="870" height="204" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579997286678" />
+    <state width="870" height="204" key="GridCell.Tab.1.center" timestamp="1579997286677">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="872" height="204" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579992115360" />
-    <state width="872" height="204" key="GridCell.Tab.1.left" timestamp="1579992115360">
+    <state width="870" height="204" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579997286677" />
+    <state width="870" height="204" key="GridCell.Tab.1.left" timestamp="1579997286677">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="872" height="204" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579992115360" />
-    <state width="872" height="204" key="GridCell.Tab.1.right" timestamp="1579992115361">
+    <state width="870" height="204" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579997286677" />
+    <state width="870" height="204" key="GridCell.Tab.1.right" timestamp="1579997286678">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="872" height="204" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579992115361" />
+    <state width="870" height="204" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579997286678" />
     <state x="481" y="134" key="MultipleFileMergeDialog" timestamp="1578261890416">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
