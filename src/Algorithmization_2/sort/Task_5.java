@@ -1,10 +1,5 @@
 package Algorithmization_2.sort;
 
-import com.mysql.jdbc.EscapeTokenizer;
-
-import java.util.Arrays;
-import java.util.Scanner;
-
 /*
  * 5. Сортировка вставками. Дана последовательность чисел a_1, a_2,...,a_n.
  * Требуется переставить числа в порядке возрастания. Делается это следующим образом.
