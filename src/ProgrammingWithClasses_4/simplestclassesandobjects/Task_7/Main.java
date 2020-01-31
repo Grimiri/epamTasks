@@ -11,9 +11,9 @@ import javax.crypto.spec.PSource;
 public class Main {
     public static void main(String[] args) {
         Point a = new Point(0,0);
-        Point b = new Point(0,10);
-        Point c = new Point(10,0);
-
+        Point b = new Point(2,4);
+        Point c = new Point(4,0);
+        //агрегация
         Triangle triangle = new Triangle(a,b,c);
 
         System.out.println("triangle sides: ab = " + String.format("%.2f",triangle.getAb())

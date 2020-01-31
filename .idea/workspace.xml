@@ -2,12 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae5e432-fa26-41d4-a094-66c7cd58c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_1/Sentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_1/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_1/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_2/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_2/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_2/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_3/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_3/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_3/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_3/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/aggregationandcomposition/Task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_10/AirLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_10/AirLineAgregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_8/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_8/CustomerAgregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_9/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_9/BooksAgregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_9/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/ProgrammingWithClasses_4/simplestclassesandobjects/Task_6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/ProgrammingWithClasses_4/simplestclassesandobjects/Task_6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/epamTasks/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/epamTasks/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_7/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingWithClasses_4/simplestclassesandobjects/Task_8/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +92,11 @@
   </component>
   <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_4.Main" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses_4.aggregationandcomposition.Task_1.Main" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_4.*" />
+          <option name="PATTERN" value="ProgrammingWithClasses_4.aggregationandcomposition.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_6.Main" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses_4.aggregationandcomposition.Task_2.Main" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_6.*" />
+          <option name="PATTERN" value="ProgrammingWithClasses_4.aggregationandcomposition.Task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +118,24 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_7.Main" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses_4.aggregationandcomposition.Task_3.Main" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_7.*" />
+          <option name="PATTERN" value="ProgrammingWithClasses_4.aggregationandcomposition.Task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_9.Main" />
+      <module name="epamTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,24 +144,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_3.Main" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_10.Main" />
       <module name="epamTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsAndBasicsOfTextProcessing_3.patternmatcher.Task_2" />
-      <module name="epamTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsAndBasicsOfTextProcessing_3.patternmatcher.*" />
+          <option name="PATTERN" value="ProgrammingWithClasses_4.simplestclassesandobjects.Task_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,7 +162,7 @@
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task_2 (1)" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +210,8 @@
       <workItem from="1580216541825" duration="4793000" />
       <workItem from="1580232202947" duration="15738000" />
       <workItem from="1580294503679" duration="21507000" />
-      <workItem from="1580399498739" duration="4688000" />
+      <workItem from="1580399498739" duration="12574000" />
+      <workItem from="1580452994190" duration="19483000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1578267280019</created>
@@ -254,10 +277,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="727" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1580403078131">
+    <state x="727" y="152" width="388" height="676" key="#com.intellij.ide.util.MemberChooser" timestamp="1580503583948">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="727" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1580403078131" />
+    <state x="727" y="152" width="388" height="676" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1580503583948" />
     <state x="524" y="121" key="#xdebugger.evaluate" timestamp="1579910072539">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -266,38 +289,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578269914868" />
-    <state width="1493" height="201" key="GridCell.Tab.0.bottom" timestamp="1580403833599">
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom" timestamp="1580503937689">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580403833599" />
-    <state width="1493" height="201" key="GridCell.Tab.0.center" timestamp="1580403833599">
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580503937689" />
+    <state width="1493" height="201" key="GridCell.Tab.0.center" timestamp="1580503937688">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580403833599" />
-    <state width="1493" height="201" key="GridCell.Tab.0.left" timestamp="1580403833598">
+    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580503937688" />
+    <state width="1493" height="201" key="GridCell.Tab.0.left" timestamp="1580503937688">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580403833598" />
-    <state width="1493" height="201" key="GridCell.Tab.0.right" timestamp="1580403833599">
+    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580503937688" />
+    <state width="1493" height="201" key="GridCell.Tab.0.right" timestamp="1580503937689">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580403833599" />
-    <state width="1493" height="257" key="GridCell.Tab.1.bottom" timestamp="1580339815145">
+    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580503937689" />
+    <state width="1493" height="257" key="GridCell.Tab.1.bottom" timestamp="1580454627743">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580339815145" />
-    <state width="1493" height="257" key="GridCell.Tab.1.center" timestamp="1580339815145">
+    <state width="1493" height="257" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580454627743" />
+    <state width="1493" height="257" key="GridCell.Tab.1.center" timestamp="1580454627743">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1580339815145" />
-    <state width="1493" height="257" key="GridCell.Tab.1.left" timestamp="1580339815145">
+    <state width="1493" height="257" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1580454627743" />
+    <state width="1493" height="257" key="GridCell.Tab.1.left" timestamp="1580454627743">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1580339815145" />
-    <state width="1493" height="257" key="GridCell.Tab.1.right" timestamp="1580339815145">
+    <state width="1493" height="257" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1580454627743" />
+    <state width="1493" height="257" key="GridCell.Tab.1.right" timestamp="1580454627743">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1580339815145" />
+    <state width="1493" height="257" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1580454627743" />
     <state x="349" y="161" key="IDE.errors.dialog" timestamp="1580254361197">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -326,10 +349,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="444" y="266" key="git4idea.ui.GitUnstashDialog/0.0.1536.834@0.0.1536.834" timestamp="1578261576600" />
-    <state x="425" y="189" key="run.anything.popup" timestamp="1580301424764">
+    <state x="425" y="189" key="run.anything.popup" timestamp="1580453810993">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1580301424764" />
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1580453810993" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1580214875825">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

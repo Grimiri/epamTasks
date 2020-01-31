@@ -14,23 +14,24 @@ public class Triangle {
         double bc = Math.sqrt((Math.pow(c.getX() - b.getX(), 2) + Math.pow(c.getY() - b.getY(), 2)));
         double ca = Math.sqrt((Math.pow(a.getX() - c.getX(), 2) + Math.pow(a.getY() - c.getY(), 2)));
 
-        if (canTriangleExist(ab, bc, ca)) {
-            this.a = a;
-            this.b = b;
-            this.c = c;
-
-            this.ab = ab;
-            this.bc = bc;
-            this.ca = ca;
+        if (!canTriangleExist(ab, bc, ca)) {
+            System.exit(-1);
         }
+        this.a = a;
+        this.b = b;
+        this.c = c;
+
+        this.ab = ab;
+        this.bc = bc;
+        this.ca = ca;
     }
 
     private boolean canTriangleExist(double ab, double bc, double ca) {
-        if (ab + bc < ca || bc + ca < ab || ab + ca < bc) {
-            System.out.println("triangle with entered params is not exist..");
-            return false;
+        if (ab + bc > ca && bc + ca > ab && ab + ca > bc) {
+            return true;
         }
-        return true;
+        System.out.println("triangle with entered params is not exist..");
+        return false;
 
     }
 
@@ -58,8 +59,7 @@ public class Triangle {
     public Point findPointOfMedianCross(){
         double x = (a.getX() + b.getX() + c.getX())/3;
         double y = (a.getY() + b.getY() + c.getY())/3;;
-        Point p = new Point(x, y);
-        return p;
+        return new Point(x, y);
     }
 
 }
